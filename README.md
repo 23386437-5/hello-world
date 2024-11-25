@@ -1,2 +1,1 @@
-# hello-world
-Este repositório é para praticar o fluxo do GitHub
+OLA EU SOU MATHEUS E FAÇO ENGENHARIA DE SOFTWARE
